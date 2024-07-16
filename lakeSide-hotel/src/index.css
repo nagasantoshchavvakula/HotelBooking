@@ -2,6 +2,7 @@
 body {
   min-height: 100vh;
   padding-bottom: 55px;
+  opacity: 0.35;
 }
 .card {
   opacity: 0.9;
